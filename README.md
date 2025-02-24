@@ -1,0 +1,1 @@
+This repository contains a Python example demonstrating an uncommon error related to inconsistent return types in a function due to exception handling. The `bug.py` file shows the function with the error, and `bugSolution.py` provides a solution to fix the inconsistency.
